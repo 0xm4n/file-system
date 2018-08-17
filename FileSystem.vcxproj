@@ -120,6 +120,7 @@
     <ClCompile Include="Login.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="MSDOS_filesys.cpp" />
     <ClCompile Include="Regist.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -127,6 +128,7 @@
     <ClInclude Include="HomePage.h" />
     <ClInclude Include="Login.h" />
     <ClInclude Include="Menu.h" />
+    <ClInclude Include="MSDOS_filesys.h" />
     <ClInclude Include="Regist.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

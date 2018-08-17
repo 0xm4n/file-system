@@ -38,7 +38,7 @@ char command_str4[3];//存储命令中的文件保护方式
 int current_location = 0;
 int count_C = 0;  //用于控制文件的打开个数
 
-void runSystem() {
+void runHierFileSystem() {
 	while (1)
 	{
 		identify_command();

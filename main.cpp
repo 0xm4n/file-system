@@ -7,13 +7,15 @@ using namespace std;
 #include "Login.h"
 #include "Regist.h"
 #include "hier_filesys.h"
+#include "MSDOS_filesys.h"
 
 
 
 int main()
 {
-	showHome();
-	runSystem();
+	//showHome();
+	//runHierFileSystem();
+	runMsdosFileSystem();
 	system("pause");
 	return 0;
 }

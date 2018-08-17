@@ -1,6 +1,6 @@
 #ifndef HIER_FILESYS_H
 #define HIER_FILESYS_H
-void runSystem();
+void runHierFileSystem();
 void identify_command();
 void fileCreate(char command_str2[], char command_str3[], char command_str4[]);
 void fileWrite(char command_str2[], char command_str3[]);
