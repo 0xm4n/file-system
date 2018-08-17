@@ -36,6 +36,9 @@
     <ClCompile Include="MSDOS_filesys.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ChooseFileSys.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Login.h">
@@ -54,6 +57,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="MSDOS_filesys.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ChooseFileSys.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

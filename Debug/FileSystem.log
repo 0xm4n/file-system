@@ -1,4 +1,6 @@
-﻿  MSDOS_filesys.cpp
+﻿  ChooseFileSys.cpp
   main.cpp
+  Menu.cpp
+  MSDOS_filesys.cpp
   正在生成代码...
   FileSystem.vcxproj -> C:\Users\Dave\Desktop\cpp大作业\FileSystem\Debug\FileSystem.exe

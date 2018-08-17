@@ -3,6 +3,7 @@
 #include <fstream>
 using namespace std;
 
+#include "ChooseFileSys.h"
 #include "HomePage.h"
 #include "Login.h"
 #include "Regist.h"
@@ -10,12 +11,9 @@ using namespace std;
 #include "MSDOS_filesys.h"
 
 
-
 int main()
 {
-	//showHome();
-	//runHierFileSystem();
-	runMsdosFileSystem();
+	choose_fileSys();
 	system("pause");
 	return 0;
 }

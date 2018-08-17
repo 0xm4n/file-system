@@ -16,6 +16,7 @@ typedef struct file
 FD user_FD[30];
 int fileCount = 0;
 //定义文件分配表
+
 typedef struct fat
 {
 	int location;

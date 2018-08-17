@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ChooseFileSys.cpp" />
     <ClCompile Include="hier_filesys.cpp" />
     <ClCompile Include="HomePage.cpp" />
     <ClCompile Include="Login.cpp" />
@@ -124,6 +125,7 @@
     <ClCompile Include="Regist.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ChooseFileSys.h" />
     <ClInclude Include="hier_filesys.h" />
     <ClInclude Include="HomePage.h" />
     <ClInclude Include="Login.h" />
